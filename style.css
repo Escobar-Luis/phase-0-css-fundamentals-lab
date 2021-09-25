@@ -1,5 +1,47 @@
+h1 {
+  text-align: center;
+  margin: auto;
+  line-height: 2;
+}
+
+nav {
+  text-align: center;
+  width: auto;
+}
+
+a {
+
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+figure {
+  font-size: small;
+  width: auto;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  width: 800px;
+  text-align: center;
+}
+div {
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  font-size: small;
+}
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: auto;
+  
+}
+
+
 }
